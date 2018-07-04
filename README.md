@@ -14,7 +14,7 @@ This project provides some additional device interfaces for TwirreLink. The proj
 
 
 ## Dependencies
-The TwirreLink Addons depend on the base [Twirrelink library][twirrelink-prj]{:target="_blank"}. 
+The TwirreLink Addons depend on the base [Twirrelink library][twirrelink-prj]. 
 
 
 ## Modules
@@ -23,10 +23,10 @@ The TwirreLink Addons depend on the base [Twirrelink library][twirrelink-prj]{:t
 * [gps](#gps)
 
 ### myAHRS+
-The myARHS+ module provides support for adding a [myAHRS+ sensor][myahrs]{:target="_blank"} to TwirreLink using an USB connection.
+The myARHS+ module provides support for adding a [myAHRS+ sensor][myahrs] to TwirreLink using an USB connection.
 
 ### GPS
-The GPS module provides TwirreLink capabilities for two specific RTK GPS sensors: [SwiftNav Piksi][piksi]{:target="_blank"} and [Tersus Precis BX305][precis]{:target="_blank"}.
+The GPS module provides TwirreLink capabilities for two specific RTK GPS sensors: [SwiftNav Piksi][piksi] and [Tersus Precis BX305][precis].
 
 
 ## Building on Linux
